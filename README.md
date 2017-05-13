@@ -1,0 +1,2 @@
+# udacity_pro_finding_donors
+Udacity机器学习进阶课程中，利用特征对数据进行分类的练习。
